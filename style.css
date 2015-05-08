@@ -28,8 +28,6 @@ article{
 	font-family: Arial;
 	font-size:16px;
 	padding:30px;
-	margin-left:auto; /* TEST */
-	margin-right:auto; /* TEST */ 
 }
 article h1,h2,h3,h4{
 	font-family: serif;
@@ -132,6 +130,8 @@ article figcaption{
 	border-bottom:2px solid #dddddd;
 	color:#8d8d8d;
 	margin:10px 0;
+	margin-left:auto; /* TEST */
+	margin-right:auto; /* TEST */ 
 }
 .table-head{
 	 display: table-header-group; /* Defines a table header group */
