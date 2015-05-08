@@ -1,4 +1,4 @@
-	@import url(css/reset.css);		/* Resets html elements */
+	@import url(reset.css);
 body{
 	font-family:Arial, serif;
 	color:#000000;
