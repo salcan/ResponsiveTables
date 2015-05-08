@@ -241,4 +241,7 @@ article figcaption{
 		font-size:16px;
 		content:" "attr(data-label)":";	/* call the attribute value of data-label and adds colon */
 	}
+	.article .h1{
+	font-size:1.6em;
+	}
 }
