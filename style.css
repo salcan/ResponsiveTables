@@ -239,7 +239,7 @@ article figcaption{
 		font-weight:bold;
 		padding-right:5px;
 		font-size:16px;
-		content:" "attr(data-label)":";	/* call the attribute value of data-label and adds colon */
+		content:" "attr(data-label2)":";	/* call the attribute value of data-label2 and adds colon */
 	}
 	header h1{
 	font-size:1.6em;
