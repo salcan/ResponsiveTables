@@ -232,14 +232,14 @@ article figcaption{
 		border-right:none;
 	}
 	.row:last-child .column,
-	.column{ /* Column in the last row and column */
+	.column{
 		border-bottom:1px solid #FF0000;
 	}
 	.column:before{ /* prints the value of data-label attribute before the column data */
 		font-weight:bold;
 		padding-right:5px;
 		font-size:16px;
-		content:" "attr(data-label)"|";	/* call the attribute value of data-label2 and adds colon */
+		content:" "attr(data-label)" |";	/* call the attribute value of data-label2 and adds colon */
 	}
 	header h1{
 	font-size:1.6em;
