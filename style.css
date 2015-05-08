@@ -220,9 +220,9 @@ article figcaption{
 		left:-1000em;
 	}
 	.row{
-		border:1px solid #eeeeee;
-		border-top:1px solid #dddddd;
-		border-bottom:1px solid #dddddd;
+		border:1px solid #ff0000;
+		border-top:1px solid #ff0000;
+		border-bottom:1px solid #ff0000;
 		margin:10px 0;
 	}
 	.row .column:nth-child(1){ /* first column of the row */
