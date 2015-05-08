@@ -221,9 +221,9 @@ article figcaption{
 	}
 	.row{
 		border:1px solid #eeeeee;
-		border-top:2px solid #dddddd;
-		border-bottom:2px solid #dddddd;
-		margin:20px 0;
+		border-top:1px solid #dddddd;
+		border-bottom:1px solid #dddddd;
+		margin:10px 0;
 	}
 	.row .column:nth-child(1){ /* first column of the row */
 		border-left:none;
@@ -233,7 +233,7 @@ article figcaption{
 	}
 	.row:last-child .column,
 	.column{ /* Column in the last row and column */
-		border-bottom:2px solid #FF0000;
+		border-bottom:1px solid #FF0000;
 	}
 	.column:before{ /* prints the value of data-label attribute before the column data */
 		font-weight:bold;
